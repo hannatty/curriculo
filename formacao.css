@@ -1,0 +1,31 @@
+.section_title{
+    margin-left: 50px;
+    font-family:'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #000000;
+}
+
+.section_subtitle{
+    font-family:'Josefin Sans', sans-serif;
+    font-size: 22px;
+    color: #000000;
+}
+
+
+.topic{
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+
+ul li{
+    list-style-type: square;
+    font-family: 'Heebo', sans-serif;
+    font-size: 18px;
+    }
+
+    .enfase{
+        font-style: italic;
+    }
